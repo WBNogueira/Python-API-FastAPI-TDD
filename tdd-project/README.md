@@ -4,7 +4,7 @@
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
 
 ### Ciclo do TDD
-!(/docs/img/img-tdd.png)
+![C4](/docs/img/img-tdd.png)
 
 ### Vantagens do TDD
 - entregar software de qualidade;
